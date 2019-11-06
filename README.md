@@ -18,7 +18,7 @@ allprojects {
 Add to the app level gradle:
 ```
 dependencies {
-    implementation 'com.github.gbksoft:Stepper:v1.0.0'
+    implementation 'com.github.gbksoft:GBKStepper:v1.0.0'
 }
 ```
 
