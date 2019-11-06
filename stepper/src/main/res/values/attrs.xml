@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="StepView">
+        <attr name="progressStepCount" format="integer" />
+        <attr name="activeStepDrawable" format="reference" />
+        <attr name="nonActiveStepDrawable" format="reference" />
+        <attr name="progressDrawable" format="integer" />
+        <attr name="nonActiveTextColor" format="reference" />
+        <attr name="nonActiveTextSize" format="dimension" />
+        <attr name="activeTextSize" format="dimension"/>
+        <attr name="activeTextColor" format="reference"/>
+        <attr name="stepTexts" format="reference" />
+    </declare-styleable>
+
+</resources>
